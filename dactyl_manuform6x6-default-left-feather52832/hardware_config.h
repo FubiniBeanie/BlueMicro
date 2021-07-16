@@ -26,7 +26,7 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR P
 #define MATRIX_ROWS 7
 #define MATRIX_COLS 6
 
-#define MATRIX_ROW_PINS {2, 3, 4, 5, 12, 13, 14 } // { F5, F6, F7, B1, B3, B2, B6 }
+#define MATRIX_ROW_PINS {14, 13, 12, 5, 4, 3, 2 } // { F5, F6, F7, B1, B3, B2, B6 }
 #define MATRIX_COL_PINS {16, 15, 7, 11, 30, 27 } // { D4, C6, D7, E6, B4, B5 }
 #define UNUSED_PINS {}
 
